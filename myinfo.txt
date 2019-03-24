@@ -1,1 +1,3 @@
 "Name: Komal Wajid" 
+Email: komalwajid@ucp.edu.pk
+Faculty of Information Technology
