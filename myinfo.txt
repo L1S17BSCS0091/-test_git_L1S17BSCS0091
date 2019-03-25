@@ -1,4 +1,8 @@
 Name: camila coelho
 Email: komalwajid@ucp.edu.pk
 Faculty of Information Technology
+<<<<<<< HEAD
 UCP
+=======
+UCP
+>>>>>>> c277dbf8ebeea212065219fa1e145842473b73fd
